@@ -1,5 +1,15 @@
 # Sales_Insights_Tableau
 
+#### find the link below : Tableau Public Dashboard
+[Revenue_Analysis](https://public.tableau.com/views/Revenue_Analysis_Final/DashboardRevenueAnalysisFinal?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+![Tableau_Revenue_Analysis](https://user-images.githubusercontent.com/59639357/122680873-1b579880-d20f-11eb-97f0-93593a0c9c65.png)
+
+#### find the link below : Tableau Public Dashboard
+[Profit_Analysis](https://public.tableau.com/views/Profit_Analysis_Final/DashboardProfitAnalysisFinal?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+![Tableau_Profit_Analysis](https://user-images.githubusercontent.com/59639357/122680974-ae90ce00-d20f-11eb-8190-6e7a2b7e493a.png)
+
 ### Project – Created "Tableau Dashboard" to get company sales information
 
 This project helps to understand the sales insights of a hardware company that sells millions of products every year. We have created two dashboards to check the total sales and profit pattern across the country.
